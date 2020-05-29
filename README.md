@@ -1,5 +1,7 @@
 # mask-detection
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/vipulrai91/mask-detection.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vipulrai91/mask-detection/alerts/)
+
 Project on mask detection<br>
 
 This project will be done in multiple stages. Let's start with Phase 1 : Detecting faces
